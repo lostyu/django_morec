@@ -1,6 +1,6 @@
 # :clapper: Morec - 电影推荐应用
 
-这是一个非常精美的电影推荐应用，使用 Flutter 与 Django 进行构建。浏览基本电影信息的同时，还可根据用户收藏的电影、演员、标签，定时生成推荐列表以及相应的推荐解释。
+这是一个非常精美的电影推荐应用，使用 *Flutter* 与 `Django` 进行构建。浏览基本电影信息的同时，还可根据用户收藏的电影、演员、标签，定时生成推荐列表以及相应的推荐解释。
 
 项目在这个 [Repo](https://github.com/Mayandev/morec) 的基础上进行了完善，新增了如下功能：
 
@@ -81,19 +81,4 @@ $ flutter run
 
 ## Dataset
 
-推荐功能是基于 item 的协同过滤推荐，[数据集](https://sites.google.com/site/erhengzhong/datasets)来自 [Erheng Zhong](https://sites.google.com/site/erhengzhong/home) 博士 为在 KDD'12, TKDD'14, SDM'12 上发表论文而收集的数据，其中包含 5 万多部电影（3 万多有电影名称，2 万多没有电影名称），2.8 万 用户，280 万条评分数据。
-
-## End
-
-这个项目是我的本科毕业设计，如果你喜欢这个项目，欢迎给我一个 star，也算是对我的一份鼓励与认可。
-
-欢迎在 [Github 主页](https://github.com/Mayandev)关注我的其他项目。
-
-如果对这个项目有任何建议或意见，欢迎在 [Issues](https://github.com/Mayandev/django_morec/issues) 提出。
-
-欢迎关注我的公众号，不定期分享资源和干货！
-
-![](https://raw.githubusercontent.com/Mayandev/mayandev_blog_image/master/images%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
-
-
-
+推荐功能是基于 item 的协同过滤推荐，[数据
